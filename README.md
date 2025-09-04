@@ -1,3 +1,4 @@
+![Telegram](resource/head.PNG)
 # 🤖 My First AI Agent on Telegram  
 
 This project documents the process of creating my **first AI-powered agent** integrated with **Telegram**. The goal was to design a simple yet functional agent capable of handling conversations, automations, and responding intelligently inside a Telegram chat.  
