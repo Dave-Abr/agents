@@ -104,6 +104,6 @@ Building this Telegram AI Agent was a great first step into Agents + Automation.
 It showed me how to combine APIs, coding, and AI models into a real-world application.
 
 
-<!-- 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''' --> f
+<!-- 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''' --> 
 
 
